@@ -1,0 +1,162 @@
+[
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "A",
+      "seatNumber": 1,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "A",
+      "seatNumber": 2,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "A",
+      "seatNumber": 3,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "A",
+      "seatNumber": 4,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "A",
+      "seatNumber": 5,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "B",
+      "seatNumber": 1,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "B",
+      "seatNumber": 2,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "B",
+      "seatNumber": 3,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "B",
+      "seatNumber": 4,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "B",
+      "seatNumber": 5,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "C",
+      "seatNumber": 1,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "C",
+      "seatNumber": 2,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "C",
+      "seatNumber": 3,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "C",
+      "seatNumber": 4,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "C",
+      "seatNumber": 5,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "D",
+      "seatNumber": 1,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "D",
+      "seatNumber": 2,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "D",
+      "seatNumber": 3,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "D",
+      "seatNumber": 4,
+      "statusSeat": true
+    }
+  },
+  {
+    "_class": "org.binar.microservice.filmservice.filmservice.model.entity.Seat",
+    "seatId": {
+      "seatRow": "D",
+      "seatNumber": 5,
+      "statusSeat": true
+    }
+  }
+]
